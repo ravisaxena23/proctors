@@ -1,0 +1,37 @@
+[
+	{
+		"userId": 7456,
+		"selected": false,
+		"firstname": "Sandie",
+		"lastname": "Chabot",
+		"email from expression": "Sandie.Chabot@yopmail.com"
+	},
+	{
+		"userId": 5741,
+		"selected": true,
+		"firstname": "Alisha",
+		"lastname": "Argus",
+		"email from expression": "Alisha.Argus@yopmail.com"
+	},
+	{
+		"userId": 4059,
+		"selected": true,
+		"firstname": "Mureil",
+		"lastname": "Nadia",
+		"email from expression": "Mureil.Nadia@yopmail.com"
+	},
+	{
+		"userId": 6612,
+		"selected": true,
+		"firstname": "Max",
+		"lastname": "Klemperer",
+		"email from expression": "Max.Klemperer@yopmail.com"
+	},
+	{
+		"userId": 9568,
+		"selected": false,
+		"firstname": "Linzy",
+		"lastname": "Land",
+		"email from expression": "Linzy.Land@yopmail.com"
+	}
+]
